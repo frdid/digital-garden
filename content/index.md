@@ -13,8 +13,8 @@ Setiap informasi sudah dicantumkan dengan sumber informasinya masing-masing. Hal
 Setiap pembaca tidak diharuskan menjadikan tulisan yang ada disini sebagai sumber rujukan, tetapi dapat dijadikan sebagai gudang ensiklopedia yang menampung beberapa hal tertentu.
 
 Kamu bisa mulai dari beberapa garis besar yang saya tuliskan dibawah ini:
-- [[keilmuan]]
-- [[psikologi]]
+- [[keilmuan|Keilmuan]]
+- [[psikologi|Psikologi]]
 
 
 

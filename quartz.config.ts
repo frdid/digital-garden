@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Ferdi's Digital Garden",
+    pageTitle: "🪴 Kebun Digital Ferdi Dirgantara",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "https://frdid.github.io/digital-garden/",
+    locale: "id-ID",
+    baseUrl: "frdid.github.io/digital-garden/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
