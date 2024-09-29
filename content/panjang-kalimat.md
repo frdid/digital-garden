@@ -2,7 +2,9 @@
 title: Panjang Kalimat Ideal
 description: 
 permalink: 
-aliases: 
+aliases:
+  - panjang kalimat ideal
+  - Panjang kalimat ideal
 tags:
   - kebahasaan
 draft: false

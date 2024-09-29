@@ -18,6 +18,14 @@ section {
   color: var(--darkgray);
 }
 
+::-webkit-scrollbar {
+  width: 8px;
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--secondary);
+}
+
 .text-highlight {
   background-color: var(--textHighlight);
   padding: 0 0.1rem;
@@ -208,6 +216,14 @@ a {
       grid-area: sidebar-right;
       margin-right: 0;
       flex-direction: column;
+      overflow: hidden auto;
+      &::-webkit-scrollbar {
+        width: 8px;
+        background: transparent;
+      }
+      &::-webkit-scrollbar-thumb {
+        background: var(--secondary);
+      }
       @media all and ($mobile) {
         margin-left: inherit;
         margin-right: inherit;

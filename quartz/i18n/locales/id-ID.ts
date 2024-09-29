@@ -39,7 +39,7 @@ export default {
       title: "Tampilan Grafik",
     },
     recentNotes: {
-      title: "Catatan Terbaru",
+      title: "Catatan Terkini",
       seeRemainingMore: ({ remaining }) => `Lihat ${remaining} lainnya →`,
     },
     transcludes: {
@@ -59,7 +59,7 @@ export default {
   },
   pages: {
     rss: {
-      recentNotes: "Catatan terbaru",
+      recentNotes: "Catatan terkini",
       lastFewNotes: ({ count }) => `${count} catatan terakhir`,
     },
     error: {
