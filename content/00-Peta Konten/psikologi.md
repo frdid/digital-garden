@@ -1,4 +1,0 @@
----
-title: Psikologi
-draft: true
----

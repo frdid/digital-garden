@@ -1,6 +1,13 @@
 ---
 title: Beranda
-tampil: Ini contoh frontmatter
+description: 
+permalink: 
+aliases:
+  - Beranda
+  - beranda
+tags: 
+draft: false
+date:
 ---
 
 ## Selamat datang di Kebun (Catatan) Digital saya! 
@@ -14,3 +21,4 @@ Kamu bisa baca [[tentang-saya|tentang saya]] untuk mengenal saya lebih jauh.
 ## Mulai dari sini
 Anda bisa memulai dari memilih salah satu topik yang saya tuliskan dibawah ini:
 - [[bahasa-indonesia|Bahasa Indonesia]]
+- [[Lainnya]]

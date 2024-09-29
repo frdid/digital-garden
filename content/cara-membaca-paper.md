@@ -4,15 +4,16 @@ description:
 permalink: 
 aliases:
   - tiga tips membaca makalah
+  - Tiga Tips Membaca Makalah (Paper)
 tags: 
 draft: false
 date: 2024-09-30
 ---
 
 
-Tiga tahapan yang dibahas oleh Ivan Lanin adalah sebuah ringkasan dari satu video YouTube. Video tersebut berjudul  “[_How To Read Papers Effectively 2024: Scanning like a Scientist_](https://www.youtube.com/watch?v=Cv262mV4Mig)” 
+Tiga tahapan yang dibahas oleh [[ivan-lanin|Ivan Lanin]] adalah sebuah ringkasan dari satu video YouTube. Video tersebut berjudul  “[_How To Read Papers Effectively 2024: Scanning like a Scientist_](https://www.youtube.com/watch?v=Cv262mV4Mig)” 
 
-Dalam tulisannya, Ivan menangkap tiga tahapan yang bisa dilakukan oleh pembaca. Tiga tahapan tersebut terdiri atas **pemindaian *(scanning)*, pemahaman cepat, dan pemahaman mendalam.**
+Dalam tulisannya, [[ivan-lanin|Uda Ivan]] menangkap tiga tahapan yang bisa dilakukan oleh pembaca. Tiga tahapan tersebut terdiri atas **pemindaian *(scanning)*, pemahaman cepat, dan pemahaman mendalam.**
 
 Pemindaian memberikan gambaran umum makalah dalam waktu sekitar 5–10 menit. Pemahaman cepat membantu memahami makalah meski tidak detail dan memerlukan waktu sekitar satu jam. Pemahaman mendalam baru dilakukan jika kita sudah yakin ingin memahami sepenuhnya makalah dan dapat memakan waktu hingga lima jam.
 # 
@@ -23,4 +24,4 @@ Pemindaian memberikan gambaran umum makalah dalam waktu sekitar 5–10 menit. Pe
 Pada tahap ketiga—==pemahaman mendalam==, kita mencoba ==mereka ulang penelitian==. Tahap ini terutama diperlukan oleh peninjau (_reviewer_) ==untuk dapat mengetahui, misalnya, apakah asumsi yang digunakan benar dan apakah ada rujukan yang tidak disertakan==. Pada akhir tahap ini, kita harusnya sudah tahu kekuatan dan kelemahan makalah secara lebih mendetail.
 
 Sumber:
-[Ivan Lanin, 2024, Cara Membaca Makalah](https://ivanlanin.medium.com/cara-membaca-makalah-4cb6e3d6c008) (diakses pada 26 September 2024)
+[Ivan Lanin, 2024, Cara Membaca Makalah, Medium](https://ivanlanin.medium.com/cara-membaca-makalah-4cb6e3d6c008) (Diakses pada 26 September 2024)

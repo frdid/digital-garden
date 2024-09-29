@@ -4,8 +4,14 @@ description:
 permalink: 
 aliases:
   - Ivan Lanin
+  - Ivan
+  - Uda Ivan
 tags: 
 draft: false
 date:
 ---
-Catatan ini berisikan berbagai informasi yang diperoleh dari Ivan Lanin, baik dari siniar, seminar, buku, artikel, dan lainnya. 
+Catatan ini berisikan berbagai informasi yang diperoleh dari [[ivan-lanin|Ivan Lanin]], baik dari siniar, seminar, buku, artikel, dan lainnya. 
+
+# Artikel Medium
+- [[panjang-kalimat|Panjang Kalimat Ideal]]
+- [[cara-membaca-paper|Tiga Tips Membaca Makalah (Paper)]]
