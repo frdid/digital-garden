@@ -39,7 +39,7 @@ export default {
       title: "Tampilan Grafik",
     },
     recentNotes: {
-      title: "Catatan Terkini",
+      title: "Catatan Terbaru",
       seeRemainingMore: ({ remaining }) => `Lihat ${remaining} lainnya →`,
     },
     transcludes: {
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Mencari sesuatu",
     },
     tableOfContents: {
-      title: "Daftar Konten",
+      title: "Kerangka Konten",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `baca ${minutes} menit`,
@@ -59,7 +59,7 @@ export default {
   },
   pages: {
     rss: {
-      recentNotes: "Catatan terkini",
+      recentNotes: "Catatan terbaru",
       lastFewNotes: ({ count }) => `${count} catatan terakhir`,
     },
     error: {
