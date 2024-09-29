@@ -40,10 +40,10 @@ export default {
     },
     recentNotes: {
       title: "Catatan Terkini",
-      seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
+      seeRemainingMore: ({ remaining }) => `Lihat ${remaining} lainnya →`,
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transclude of ${targetSlug}`,
+      transcludeOf: ({ targetSlug }) => `Transkrip dari ${targetSlug}`,
       linkToOriginal: "Tautan ke sumber asli",
     },
     search: {
@@ -64,8 +64,8 @@ export default {
     },
     error: {
       title: "Tidak ditemukan.",
-      notFound: "Either this page is private or doesn't exist.",
-      home: "Kembali ke beranda",
+      notFound: "Halaman ini bersifat pribadi atau tidak ada.",
+      home: "Kembali ke Beranda",
     },
     folderContent: {
       folder: "Folder",

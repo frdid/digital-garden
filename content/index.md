@@ -2,26 +2,26 @@
 title: Beranda
 ---
 
-## Selamat datang di Kebun Digital saya. 
+## Selamat datang di Kebun (Catatan) Digital saya! 
+Anda baru saja memasuki ladang informasi milik saya. Disini semua hal terkait materi, kelas, seminar, dan informasi lainnya saya bagikan secara gratis pada semua orang. Saya tertarik dengan berbagai bidang ilmu pengetahuan, mulai dari teknologi, psikologi, komunikasi, pengembangan diri, keagamaan, spiritual, dan masih banyak lagi.
 
-Tempat ini menyimpan sebagian besar hal-hal yang saya pelajari dan saya anggap penting untuk diingat. Saya memiliki ketertarikan pada berbagai hal, mulai dari teknologi, buku, pengembangan diri, keagamaan, spiritual, psikologi, dan masih banyak lagi. Informasi yang saya cantumkan dalam situs ini adalah hasil dari berbagai materi atau informasi yang sudah saya tuliskan ditempat lain.
+Pada halaman beranda ini, Anda akan menemukan kerangka umum (daftar konten) yang saya tuliskan. Anda bisa mulai dari sini dan memilih hal apapun yang menarik perhatian Anda. Saya berusaha sebisa mungkin untuk mencantumkan berbagai sumber informasi yang saya peroleh atau tuliskan, ini tentu akan bermanfaat bagi Anda yang sedang melakukan riset untuk penelitian atau buku yang sedang Anda kerjakan.
 
-Saya mencantumkan berbagai informasi sebaik mungkin dengan menerapkan metode Zettelaksen. Saya yakin bahwa setiap informasi memiliki hubungan dengan informasi lain. 
+Saya tidak begitu banyak menemukan kebun digital *(digital garden)* yang berbahasa Indonesia berseliweran di internet. Mayoritas yang saya temukan di internet berbahasa Inggris. Maka dari itu, saya mencoba untuk memberanikan diri untuk membuat kebun digital saya sendiri dengan menggunakan Bahasa Indonesia.
 
-Setiap informasi sudah dicantumkan dengan sumber informasinya masing-masing. Hal ini untuk memudahkan pembaca saat melakukan riset mendalam terkait suatu informasi, atau hanya sekedar untuk memvalidasi apa yang sudah saya tuliskan. 
+## Tentang Saya
+Nama saya adalah Ferdi Dirgantara dan akrab dipanggil Ferdi. Saya seorang lulusan S1 Informatika di kampus swasta di Yogyakarta. 
 
-Setiap pembaca tidak diharuskan menjadikan tulisan yang ada disini sebagai sumber rujukan, tetapi dapat dijadikan sebagai gudang ensiklopedia yang menampung beberapa hal tertentu.
+Minat saya terhadap ilmu pengetahuan mulai berkembang saat saya mulai memasuki bangku perkuliahan. Pada awalnya, membaca buku adalah hal yang sangat membosankan bagi saya. Perubahan saya mulai terjadi ketika dulu saya mengikuti salah satu Multi-Level Marketing (MLM) saat berkuliah. Saat itu, mentor saya memperkenalkan saya dengan 3 buah buku, dua diantaranya masih saya ingat, yaitu buku **_Notes from A Friend_** karya **Tony Robbins** dan **_Who Moved My Cheese?_** karya **Spencer Johnson**.
 
-Kamu bisa mulai dari beberapa garis besar yang saya tuliskan dibawah ini:
-- [[keilmuan|Keilmuan]]
-- [[psikologi|Psikologi]]
-
-
-
+## Mulai dari sini
+Anda bisa memulai dari memilih salah satu topik yang saya tuliskan dibawah ini:
 
 
 
----
+
+
+<!--
 
 This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started. -->
