@@ -19,6 +19,8 @@ Saya tidak begitu banyak menemukan kebun digital *(digital garden)* yang berbaha
 
 Kamu bisa baca [[tentang-saya|tentang saya]] untuk mengenal saya lebih jauh. 
 ## Mulai dari sini
-Anda bisa memulai dari memilih salah satu topik yang saya tuliskan dibawah ini:
+Anda bisa memulai dari memilih salah satu topik yang saya tuliskan dibawah ini: 
 - [[bahasa-indonesia|Bahasa Indonesia]]
+- [[hubungan-dan-relasi|Hubungan dan Relasi]] 
+- [[manajemen-pengetahuan-pribadi|Manajemen Pengetahuan Pribadi]]
 - [[Lainnya]]
