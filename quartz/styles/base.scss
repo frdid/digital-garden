@@ -18,6 +18,7 @@ section {
   color: var(--darkgray);
 }
 
+// Start Custom CSS Here
 ::-webkit-scrollbar {
   width: 8px;
   background: transparent;
@@ -25,6 +26,8 @@ section {
 ::-webkit-scrollbar-thumb {
   background: var(--secondary);
 }
+
+// End Custom CSS
 
 .text-highlight {
   background-color: var(--textHighlight);
@@ -286,7 +289,19 @@ a {
 .footnotes {
   margin-top: 2rem;
   border-top: 1px solid var(--lightgray);
+  
+  & h2{
+    text-indent: -9999px;
+    &:before {
+      content: "Catatan Kaki";
+      text-indent: 0;
+      float: left;
+      font-size: 1.4rem;
+      font-weight: 800;
+    }
+  }
 }
+
 
 input[type="checkbox"] {
   transform: translateY(2px);

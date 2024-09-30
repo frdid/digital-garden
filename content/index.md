@@ -11,7 +11,7 @@ date:
 ---
 
 ## Selamat datang di Kebun (Catatan) Digital saya! 
-Anda baru saja memasuki ladang informasi milik saya. Disini semua hal terkait materi, kelas, seminar, dan informasi lainnya saya bagikan secara gratis pada semua orang. Saya tertarik dengan berbagai bidang ilmu pengetahuan, mulai dari teknologi, psikologi, komunikasi, pengembangan diri, keagamaan, spiritual, dan masih banyak lagi.
+Anda sedang memasuki ladang informasi milik [[tentang-saya|Ferdi Dirgantara]]. Disini semua hal terkait materi, kelas, seminar, dan informasi lainnya saya bagikan secara gratis pada semua orang. Saya tertarik dengan berbagai bidang ilmu pengetahuan, mulai dari teknologi, psikologi, komunikasi, pengembangan diri, keagamaan, spiritual, dan masih banyak lagi.
 
 Anda bisa mulai dari sini dan memilih hal apapun yang menarik perhatian Anda. Saya berusaha sebisa mungkin untuk mencantumkan berbagai sumber informasi yang saya peroleh atau tuliskan, ini tentu akan bermanfaat bagi Anda yang sedang melakukan riset untuk penelitian atau buku yang sedang Anda kerjakan.
 
