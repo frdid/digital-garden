@@ -11,7 +11,7 @@ tags:
 draft: false
 date:
 ---
-Dalam tulisan [[Ivan Lanin]] yang berjudul *"[Berapa Panjang Ideal Paragraf dan Kalimat?](https://ivanlanin.medium.com/berapa-panjang-ideal-paragraf-dan-kalimat-093ec510a557)*, ia mengatakan bahwa [[bahasa-indonesia|Bahasa Indonesia]]  belum memiliki standar terkait panjang kalimat dalam satu paragraf. Bahasa Indonesia tidak seperti Bahasa Inggris yang sudah memiliki beberapa jumlah standar kata atau kalimat dalam suatu karya tulis, jumlah atau panjangnya bergantung disesuaikan dengan jenis karya tulis yang dibuat. [^1]
+Dalam tulisan [[ivan-lanin|Ivan Lanin]] yang berjudul *"[Berapa Panjang Ideal Paragraf dan Kalimat?](https://ivanlanin.medium.com/berapa-panjang-ideal-paragraf-dan-kalimat-093ec510a557)*, ia mengatakan bahwa [[bahasa-indonesia|Bahasa Indonesia]]  belum memiliki standar terkait panjang kalimat dalam satu paragraf. Bahasa Indonesia tidak seperti Bahasa Inggris yang sudah memiliki beberapa jumlah standar kata atau kalimat dalam suatu karya tulis, jumlah atau panjangnya bergantung disesuaikan dengan jenis karya tulis yang dibuat. [^1]
 
 Menurut [[ivan-lanin|Ivan Lanin]] , makin pendek kalimat dan paragraf, makin mudah dipahami oleh pembaca. Penulis bisa menggunakan acuan sekitar 17-20 kata per kalimat dan 3-5 kalimat per paragraf.
 
