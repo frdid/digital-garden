@@ -6,8 +6,9 @@ aliases:
   - Raditya Dika
 tags: 
 draft: false
-date:
+date: 2024-09-30
 ---
+# Ikhtisar 
 Catatan ini berisikan segala bentuk informasi yang saya dapatkan dari Raditya Dika. Informasi bisa didapatkan dari buku, film, atau konten lain miliknya. 
 
 # YouTube

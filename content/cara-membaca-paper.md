@@ -23,5 +23,7 @@ Pemindaian memberikan gambaran umum makalah dalam waktu sekitar 5–10 menit. Pe
 
 Pada tahap ketiga—==pemahaman mendalam==, kita mencoba ==mereka ulang penelitian==. Tahap ini terutama diperlukan oleh peninjau (_reviewer_) ==untuk dapat mengetahui, misalnya, apakah asumsi yang digunakan benar dan apakah ada rujukan yang tidak disertakan==. Pada akhir tahap ini, kita harusnya sudah tahu kekuatan dan kelemahan makalah secara lebih mendetail.
 
+---
+
 Sumber:
-[Ivan Lanin, 2024, Cara Membaca Makalah, Medium](https://ivanlanin.medium.com/cara-membaca-makalah-4cb6e3d6c008) (Diakses pada 26 September 2024)
+[Ivan Lanin, 2024, Cara Membaca Makalah, Medium](https://ivanlanin.medium.com/cara-membaca-makalah-4cb6e3d6c008) (diakses 26 Sep 2024)
