@@ -19,4 +19,4 @@ Ia **menuliskan buku _“Theory of Society”_** yang kini menjadi banyak bahan 
 
 ---
 
-Sumber: Buku How to Take Smart Notes karya Sönke Ahrens
+Sumber [[how-to-take-smart-notes|How to Take Smart Notes]]

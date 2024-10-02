@@ -10,8 +10,12 @@ tags:
 draft: false
 date: 2024-10-01
 ---
-# Ikhtisar
 Kamu akan belajar tentang kepenulisan mulai dari catatan ini.
+
+
+# Menulis Esai
+- [[tipe-tipe-esai|Tipe-Tipe Esai]]
+
 
 # Catatan
 - [[membuat-sitasi-menggunakan-metode-apa|Membuat Sitasi (Citation) menggunakan Metode APA]]

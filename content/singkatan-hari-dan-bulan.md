@@ -11,11 +11,11 @@ tags:
 draft: false
 date: 2024-10-01
 ---
-Penyingkatan nama hari dan nama bulan tidak dianjurkan dalam naskah ragam bahasa resmi, seperti surat atau laporan. Hal ini dilakukan demi menghindari ketaksaan (ambiguitas). 
+Menurut [[ivan-lanin|Uda Ivan]], penyingkatan nama hari dan nama bulan tidak dianjurkan dalam naskah ragam bahasa resmi, seperti surat atau laporan. Hal ini dilakukan demi menghindari ketaksaan (ambiguitas). 
 
 Penyingkatan nama hari dan bulan memiliki pola yang sama, yaitu mengambil tiga huruf pertama. “Mei” tidak perlu disingkat lagi karena sudah tiga huruf. Banyak orang memakai “Ags” atau “Agt” untuk bulan Agustus karena “Agu” masih terasa canggung saat digunakan.
 
-Penyingkatan hari:
+Penyingkatan nama hari:[^1]
 - Senin → Sen
 - Selasa → Sel
 - Rabu → Rab
@@ -24,7 +24,7 @@ Penyingkatan hari:
 - Sabtu → Sab
 - Minggu/Ahad → Min/Aha
 
-Penyingkatan Bulan:
+Penyingkatan nama bulan:[^2]
 - Januari → Jan
 - Februari → Feb
 - Maret → Mar
@@ -36,8 +36,11 @@ Penyingkatan Bulan:
 - September → Sep
 - Oktober → Okt
 - November → Nov
-- Desember → Des
+- Desember → Des 
 
----
 
-Sumber: Akun Twitter (X) Ivan Lanin, tentang [penyingkatan nama hari](https://x.com/ivanlanin/status/1299001950604730369) dan [penyingkatan nama bulan](https://x.com/ivanlanin/status/1298795394562846723) 
+
+
+
+[^1]: Tweet [[ivan-lanin|Uda Ivan]] tentang [Penyingkatan nama hari](https://x.com/ivanlanin/status/1299001950604730369) di Twitter (X)
+[^2]: Tweet [[ivan-lanin|Uda Ivan]] tentang [Penyingkatan nama bulan](https://x.com/ivanlanin/status/1298795394562846723) di Twitter (X)
