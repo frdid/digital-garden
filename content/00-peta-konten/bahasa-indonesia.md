@@ -14,8 +14,8 @@ Bahasa Indonesia adalah bahasa persatuan Indonesia sekaligus bahasa utama saya. 
  
 Salah satu sumber belajar saya terkait kebahasaan paling banyak adalah dari [[ivan-lanin|Uda Ivan]].
 
-# Kalimat
+## Kalimat
 - [[panjang-kalimat|Panjang Kalimat Ideal]]
 
-# Lainnya
+## Lainnya
 - [[singkatan-hari-dan-bulan|Penyingkatan nama hari dan bulan]] 

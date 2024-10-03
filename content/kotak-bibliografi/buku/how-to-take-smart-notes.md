@@ -13,3 +13,4 @@ Ini adalah catatan penanda yang saya tuliskan saat membaca buku [*How to Take Sm
 
 - 30: penjelasan tentang fleeting note → [[fleeting-note|Fleeting Note]] ^bfx186
 - 31: penjelasan tentang literature note  → [[literature-note|Literature Note]]  ^1qf1gt
+- 31: penjelasan tentang permanent note → [[permanent-note|Permanent Note]] ^4ot4z6

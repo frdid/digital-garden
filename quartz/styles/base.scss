@@ -18,11 +18,6 @@ section {
   color: var(--darkgray);
 }
 
-// Start Custom CSS Here
-
-
-// End Custom CSS
-
 .text-highlight {
   background-color: var(--textHighlight);
   padding: 0 0.1rem;
@@ -283,17 +278,6 @@ a {
 .footnotes {
   margin-top: 2rem;
   border-top: 1px solid var(--lightgray);
-  
-  & h2{
-    text-indent: -9999px;
-    &:before {
-      content: "Catatan Kaki";
-      text-indent: 0;
-      float: left;
-      font-size: 1.4rem;
-      font-weight: 800;
-    }
-  }
 }
 
 
