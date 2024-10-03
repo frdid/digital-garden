@@ -19,3 +19,4 @@ Salah satu sumber belajar saya terkait kebahasaan paling banyak adalah dari [[iv
 
 ## Lainnya
 - [[singkatan-hari-dan-bulan|Penyingkatan nama hari dan bulan]] 
+- [[pengimbuhan|Pengimbuhan]]

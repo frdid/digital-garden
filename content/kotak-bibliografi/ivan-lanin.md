@@ -15,6 +15,7 @@ Catatan ini berisikan berbagai informasi yang diperoleh dari Uda Iva, baik dari 
 ## Artikel Medium
 - [[panjang-kalimat|Panjang Kalimat Ideal]]
 - [[cara-membaca-paper|Tiga Tips Membaca Makalah (Paper)]]
+- [[pengimbuhan|Pengimbuhan]]
 
 
 ## Twitter (X)
