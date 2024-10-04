@@ -1,5 +1,5 @@
 ---
-title: Berkamu
+title: Beranda
 description: 
 permalink: 
 aliases:
