@@ -16,6 +16,7 @@ Kamu akan belajar tentang kepenulisan mulai dari catatan ini.
 ## Menulis Esai
 - [[tipe-tipe-esai|Tipe-Tipe Esai]]
 - [[esai-kontribusi|Esai Kontribusi]]
+- [[struktur-esai-kontribusi|Struktur Esai Kontribusi]]
 
 
 ## Catatan

@@ -19,3 +19,4 @@ Konten-konten dalam catatan ini adalah kumpulan informasi yang tidak memiliki ko
 Konten-konten yang masuk ke dalam daftar ini adalah konten yang masih belum saya temukan tempat yang tepat untuk menyimpannya. 
 
 - [[cara-membaca-paper|Tiga Tips Membaca Makalah (Paper)]] 
+- [[sedikit-membaca-lebih-banyak-mengingat|Sedikit Membaca dan Lebih Banyak Mengingat]]

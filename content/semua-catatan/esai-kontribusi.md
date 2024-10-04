@@ -22,6 +22,10 @@ Salah satu cara untuk menemukan bentuk kontribusi yang bisa dilakukan adalah den
 - Apa yang kamu harapkan tidak akan terjadi lagi?
 
 
+---
+**Baca juga:**
+- [[struktur-esai-kontribusi|Struktur Esai Kontribusi]]
+
 
 
 [^1]: Video YouTube [Cara Menulis Essay Beasiswa LPDP 2023 | Waitatiri, Harvard Graduate School of Education](https://www.youtube.com/watch?v=Ik-DpOHtcW4)

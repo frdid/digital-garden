@@ -13,7 +13,7 @@ Saat saya membaca tulisan dari [[ivan-lanin|Uda Ivan]] terkait pengimbuhan kata 
 
 ---
 
-![](static/jenis-imbuhan-bahasa-indonesia.png)
+![[jenis-imbuhan-bahasa-indonesia.png|600]]
 
 [Pembentukan kata](https://ivanlanin.medium.com/pembentukan-dan-pemilihan-kata-4194254f134e) dengan pengimbuhan (afiksasi) menghasilkan kata berimbuhan dengan menambahkan imbuhan (afiks) pada bentuk dasar. Pengimbuhan berfungsi membentuk kata baru dengan kelas kata dan makna tertentu.
 
