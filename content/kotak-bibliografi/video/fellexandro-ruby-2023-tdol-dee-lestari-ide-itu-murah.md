@@ -4,13 +4,14 @@ description:
 permalink: 
 aliases:
   - TDOL ft. Dee Lestari
+  - "TDOL ft. Dee Lestari: Ide Itu Murah"
 tags: 
 draft: false
 date: 2024-10-05
 ---
 Catatan ini berisikan hal-hal yang saya tangkap dari percakapan [Dee Lestari dalam siniar (*podcast*) *Thirty Days of Lunch (TDOL)*.](https://www.youtube.com/watch?v=EU50W0GKeso) Saya menyertakan sedikit catatan dan timestamp dari setiap poin yang bahas.
  
-Selamat menikmati. 
+Selamat membaca 📖
 
 ---
 

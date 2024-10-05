@@ -25,3 +25,24 @@
     }
   }
 }
+
+// Folder Outer
+.folder-outer {
+  &.open {
+    ul {
+      // &.content:empty {
+      //   display: none;
+      // }
+
+      li {
+        border-bottom: 1px solid var(--lightgray);
+        &:has(ul.content:empty){
+          display: none;
+        } 
+        &:last-child {
+          border: none;
+        }
+      }
+    }
+  }
+}
