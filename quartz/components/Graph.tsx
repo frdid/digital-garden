@@ -62,6 +62,16 @@ export default ((opts?: GraphOptions) => {
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
       <div class={classNames(displayClass, "graph")}>
+        <a href="https://trakteer.id/frdid" target="_blank">
+          <button className="trakteer">
+            <img
+              id="wse-buttons-preview"
+              src="https://cdn.trakteer.id/images/embed/trbtn-icon.png?date=18-11-2023"
+              alt="Trakteer Saya"
+            />{" "}
+            <span>Dukung saya di Trakteer</span>
+          </button>
+        </a>
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
         <div class="graph-outer">
           <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div>

@@ -11,10 +11,9 @@
   background: var(--secondary);
 }
 
-
 // Footnotes
 .footnotes {
-  & h2{
+  & h2 {
     text-indent: -9999px;
     &:before {
       content: "Catatan Kaki";
@@ -30,19 +29,59 @@
 .folder-outer {
   &.open {
     ul {
-      // &.content:empty {
-      //   display: none;
-      // }
-
       li {
         border-bottom: 1px solid var(--lightgray);
-        &:has(ul.content:empty){
+        &:has(ul.content:empty) {
           display: none;
-        } 
+        }
         &:last-child {
           border: none;
         }
       }
     }
   }
+}
+
+// Trakteer
+.trakteer {
+  // background-color: #be1e2d;
+  background-color: var(--secondary);
+  text-align: center;
+  display: flex;
+  outline: none;
+  border: none;
+  border-radius: 20px;
+  padding: 0 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+
+  &:hover {
+    cursor: pointer;
+    filter: brightness(1.08);
+  }
+
+  img {
+    width: 18px;
+    height: auto;
+    animation: tilt-shaking .8s infinite;
+  }
+
+  span {
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-shadow: 0 1px 1px rgba(34, 34, 34, 0.05);
+    font-family: "Quicksand", sans-serif;
+    color: #fff;
+  }
+}
+
+// Shaking animation
+@keyframes tilt-shaking {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(5deg); }
+  50% { transform: rotate(0eg); }
+  75% { transform: rotate(-5deg); }
+  100% { transform: rotate(0deg); }
 }
