@@ -22,3 +22,4 @@ Kamu akan belajar tentang kepenulisan mulai dari catatan ini.
 ## Catatan
 - [[membuat-sitasi-menggunakan-metode-apa|Membuat Sitasi (Citation) menggunakan Metode APA]]
 - [[singkatan-hari-dan-bulan|Penyingkatan nama hari dan bulan]] 
+- [[ide-itu-ibarat-partner|Ide Itu Ibarat Partner]]

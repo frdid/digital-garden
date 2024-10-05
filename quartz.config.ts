@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-FPBC49XRNE"
     },
     locale: "id-ID",
     baseUrl: "frdid.github.io/digital-garden/",
@@ -69,7 +70,7 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest", openLinksInNewTab: true }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
