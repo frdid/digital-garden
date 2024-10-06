@@ -23,3 +23,8 @@ Saya menghabiskan sebagian besar waktu saya dengan belajar. Belajar tidak hanya 
 Minat saya terhadap ilmu pengetahuan mulai berkembang saat saya mulai memasuki bangku perkuliahan. Pada awalnya, membaca buku adalah hal yang sangat membosankan bagi saya. Perubahan saya mulai terjadi ketika dulu saya mengikuti salah satu Multi-Level Marketing (MLM) saat berkuliah. Saat itu, mentor saya memperkenalkan saya dengan 3 buah buku, dua diantaranya masih saya ingat, yaitu buku **_Notes from A Friend_** karya **Tony Robbins** dan **_Who Moved My Cheese?_** karya **Spencer Johnson**.
 
 Ikuti saya di [Instagram](https://instagram.com/frdi.d) dan [Medium](https://frdi.medium.com/).
+
+[**Dukung saya di Trakteer**](https://trakteer.id/frdid/tip) agar dapat mengembangkan kebun ini dengan lebih banyak catatan.
+
+<script type='text/javascript' src='https://assets.trakteer.id/js/trbtn-overlay.min.js'></script><script type='text/javascript' class='troverlay'>(function() {var trbtnId = trbtnOverlay.init('Dukung Saya di Trakteer','#284B63','https://trakteer.id/frdid/tip/embed/modal','https://cdn.trakteer.id/images/embed/trbtn-icon.png?date=18-11-2023','40','inline');trbtnOverlay.draw(trbtnId);})();</script>
+

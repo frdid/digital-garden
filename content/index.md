@@ -9,7 +9,7 @@ tags:
 draft: false
 date: 2024-09-30
 ---
- ## Selamat datang di Kebun (Catatan) Digital Ferdi!
+## Selamat datang di Kebun (Catatan) Digital Ferdi!
  
 Kamu sedang memasuki ladang informasi milik [[tentang-saya|saya]]. Disini semua hal terkait materi, kelas, seminar, dan informasi lainnya saya bagikan secara gratis pada semua orang. Saya tertarik dengan berbagai bidang ilmu pengetahuan, mulai dari teknologi, psikologi, komunikasi, pengembangan diri, keagamaan, spiritual, dan masih banyak lagi. 
 
@@ -21,7 +21,12 @@ Saya tidak begitu banyak menemukan kebun digital *(digital garden)* yang berbaha
 kamu bisa memulai dari memilih salah satu topik yang saya tuliskan dibawah ini: 
 - [[bahasa-indonesia|Bahasa Indonesia]]
 - [[hubungan-dan-relasi|Hubungan dan Relasi]]  
+- [[islam|Islam]]
 - [[kepenulisan|Kepenulisan]]
 - [[manajemen-pengetahuan-pribadi|Manajemen Pengetahuan Pribadi]]
 - [[psikologi|Psikologi]]
+- [[quartz-4|Quartz]]
 - [[zettelkasten|Zettelkasten]]
+
+
+<script type='text/javascript' src='https://assets.trakteer.id/js/trbtn-overlay.min.js'></script>

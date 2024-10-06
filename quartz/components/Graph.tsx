@@ -62,7 +62,7 @@ export default ((opts?: GraphOptions) => {
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
       <div class={classNames(displayClass, "graph")}>
-        <a href="https://trakteer.id/frdid" target="_blank">
+        <a href="https://trakteer.id/frdid/tip" target="_blank">
           <button className="trakteer">
             <img
               id="wse-buttons-preview"
