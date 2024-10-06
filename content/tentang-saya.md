@@ -25,6 +25,3 @@ Minat saya terhadap ilmu pengetahuan mulai berkembang saat saya mulai memasuki b
 Ikuti saya di [Instagram](https://instagram.com/frdi.d) dan [Medium](https://frdi.medium.com/).
 
 [**Dukung saya di Trakteer**](https://trakteer.id/frdid/tip) agar dapat mengembangkan kebun ini dengan lebih banyak catatan.
-
-<script type='text/javascript' src='https://assets.trakteer.id/js/trbtn-overlay.min.js'></script><script type='text/javascript' class='troverlay'>(function() {var trbtnId = trbtnOverlay.init('Dukung Saya di Trakteer','#284B63','https://trakteer.id/frdid/tip/embed/modal','https://cdn.trakteer.id/images/embed/trbtn-icon.png?date=18-11-2023','40','inline');trbtnOverlay.draw(trbtnId);})();</script>
-
