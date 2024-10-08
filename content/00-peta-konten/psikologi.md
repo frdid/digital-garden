@@ -13,3 +13,4 @@ Kumpulan catatan yang berkaitan dengan Psikologi.
 
 ## Catatan
 - [[membunuh-tanpa-menyentuh|Membunuh Tanpa Menyentuh]]
+- [[fungsi-otak-secara-biologis|Fungsi Otak]]

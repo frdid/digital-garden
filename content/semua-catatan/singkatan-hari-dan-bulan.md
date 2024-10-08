@@ -42,5 +42,5 @@ Penyingkatan nama bulan:[^2]
 
 
 
-[^1]: Tweet [[ivan-lanin|Uda Ivan]] tentang [Penyingkatan nama hari](https://x.com/ivanlanin/status/1299001950604730369) di Twitter (X)
-[^2]: Tweet [[ivan-lanin|Uda Ivan]] tentang [Penyingkatan nama bulan](https://x.com/ivanlanin/status/1298795394562846723) di Twitter (X)
+[^1]: Tweet Uda Ivan tentang [Penyingkatan nama hari](https://x.com/ivanlanin/status/1299001950604730369) di Twitter (X)
+[^2]: Tweet Uda Ivan tentang [Penyingkatan nama bulan](https://x.com/ivanlanin/status/1298795394562846723) di Twitter (X)

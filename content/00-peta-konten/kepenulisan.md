@@ -17,9 +17,17 @@ Kamu akan belajar tentang kepenulisan mulai dari catatan ini.
 - [[tipe-tipe-esai|Tipe-Tipe Esai]]
 - [[esai-kontribusi|Esai Kontribusi]]
 - [[struktur-esai-kontribusi|Struktur Esai Kontribusi]]
+- [[langkah-langkah-menulis-esai-argumentatif|Langkah-langkah Menulis Esai Argumentatif]]
+- [[menemukan-ide-esai|Cara Menemukan Ide Esai]] 
+- [[acuan-menentukan-ide-esai|Acuan Menentukan Ide Esai]]
+- [[kriteria-judul-esai-yang-baik|Kriteria Judul Esai yang Baik]]  
+- [[esai-tidak-harus-diterima-masyarakat|Esai Tidak Harus yang Diterima Masyakarat]]
 
 
 ## Catatan
 - [[membuat-sitasi-menggunakan-metode-apa|Membuat Sitasi (Citation) menggunakan Metode APA]]
 - [[singkatan-hari-dan-bulan|Penyingkatan nama hari dan bulan]] 
 - [[ide-itu-ibarat-partner|Ide Itu Ibarat Partner]]
+- [[tidak-butuh-ide-briliant-untuk-karya-briliant|Tidak Butuh Ide Brilliant untu Menciptakan Karya Brilliant]]
+- [[menulis-untuk-refleksi-diri|Menulis Sebagai Wadah Refleksi Diri]]
+

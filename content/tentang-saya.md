@@ -13,7 +13,7 @@ aliases:
   - Ferdi Dirgantara
 tags: 
 draft: false
-date:
+date: 2024-10-06
 ---
 # Hi, salam kenal! 👋 
 Saya Ferdi Dirgantara atau akrab dipanggil Ferdi. 

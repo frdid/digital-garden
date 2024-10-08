@@ -17,9 +17,11 @@ Dalam video milik Zhafira[^1], ia mengungkapkan bahwa terdapat empat jenis esai 
 3. Esai naratif (*Narative essay*)
 4. Esai Deskriptif (*Descriptive essay*)
 
+---
+**Baca juga:**
+- [[langkah-langkah-menulis-esai-argumentatif|Langkah-langkah Menulis Esai Argumentatif]]
 
 
 
 
-
-[^1]: [Video YouTube Zhafira Aqyla berjudul 7 Step Cara Nulis Esai dengan Contoh 🧑‍💻](https://www.youtube.com/watch?v=VdHHkL-joIc) (diakses 29 Jun 2024)
+[^1]: [Video YouTube Zhafira Aqyla berjudul 7 Step Cara Nulis Esai dengan Contoh 🧑‍💻](https://www.youtube.com/watch?v=VdHHkL-joIc) (Diakses 29 Jun 2024)

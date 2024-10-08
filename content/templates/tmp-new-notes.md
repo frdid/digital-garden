@@ -5,5 +5,5 @@ permalink:
 aliases: 
 tags: 
 draft: true
-date:
+date: <% tp.date.now("yyyy-MM-DD") %>
 ---

@@ -21,12 +21,12 @@ Saya tidak begitu banyak menemukan kebun digital *(digital garden)* yang berbaha
 kamu bisa memulai dari memilih salah satu topik yang saya tuliskan dibawah ini: 
 - [[bahasa-indonesia|Bahasa Indonesia]]
 - [[hubungan-dan-relasi|Hubungan dan Relasi]]  
-- [[islam|Islam]]
+- [[content/00-peta-konten/islam|Islam]]
 - [[kepenulisan|Kepenulisan]]
 - [[manajemen-pengetahuan-pribadi|Manajemen Pengetahuan Pribadi]]
+- [[obsidian|Obsidian]]
+- [[pengembangan-diri|Pengembangan Diri]]
 - [[psikologi|Psikologi]]
 - [[quartz-4|Quartz]]
 - [[zettelkasten|Zettelkasten]]
 
-
-<script type='text/javascript' src='https://assets.trakteer.id/js/trbtn-overlay.min.js'></script>

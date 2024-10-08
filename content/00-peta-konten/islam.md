@@ -14,3 +14,4 @@ Halaman ini menampilkan kumpulan catatan yang berkaitan dengan Agama Islam.
 ---
 
 - [[salat-di-seratus-ribu-masjid|Salat di Masjidil Haram Bagaikan Salat 100.000 Kali di Masjid Lain]]
+- [[wudhu-di-toilet|Hukum Wudhu di Toilet]] 
