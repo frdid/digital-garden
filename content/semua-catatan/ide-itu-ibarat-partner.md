@@ -20,6 +20,7 @@ Jika kamu tidak memiliki pengalaman dan kelayakan yang cukup, mau sebagus apapun
 ---
 **Baca juga:**
 - [[fellexandro-ruby-2023-tdol-dee-lestari-ide-itu-murah|TDOL ft. Dee Lestari]]
+- [[prophetic-writing-dari-dee-lestari|Prophetic Writing Menurut Dee Lestari]]
 
 
 

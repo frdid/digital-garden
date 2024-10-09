@@ -18,6 +18,8 @@ Zettelkasten atau Slip-box adalah strategi mengelola catatan yang dipopulerkan o
 - [[permanent-note|Permanent Note]]
 
 
-## Catatan
+## Lainnya
 - [[niklas-luhmann|Niklas Luhmann]] adalah orang yang mempopulerkan Zettelkasten.
 - [[empat-alat-untuk-menggunakan-zettelkasten|Empat Alat untuk Memulai Zettelkasten]]
+- [[informasi-yang-layak-dicatat|Informasi yang Layak Dicatat]]
+- [[dua-kotak-wajib-zettelkasten|Dua Kotak Wajib Dalam Zettelkasten]]

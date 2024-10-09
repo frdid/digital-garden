@@ -36,5 +36,6 @@ Pendapat penulis terhadap agen travel umroh dan haji
 ---
 **Baca juga:**
 - [[salat-di-seratus-ribu-masjid|Salat di Masjidil Haram Bagaikan Salat 100.000 Kali di Masjid Lain]]
+- [[pahala-salat-jenazah-sebesar-gunung-uhud|Pahala Salat Jenazah Sebesar Gunung Uhud]]
 
 [^1]: Sumber:  [Artikel Medium karya Anin | Suara Senar Nirwana](https://suaranirwana.medium.com/manasik-umrah-haji-harus-lebih-dari-sekedar-tata-cara-umrah-6073a8324131)

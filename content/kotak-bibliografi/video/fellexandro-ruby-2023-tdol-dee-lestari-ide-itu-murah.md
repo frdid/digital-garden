@@ -18,9 +18,10 @@ Selamat membaca 📖
 - [03:20](https://www.youtube.com/watch?t=500&v=EU50W0GKeso) Membahas lagu berduka yang ditulis Dee Lestari
 - [11:26](https://www.youtube.com/watch?t=686&v=EU50W0GKeso) Kalau sedih cari lagu sedih?
 - [14:45](https://www.youtube.com/watch?t=885&v=EU50W0GKeso) Bagaimana proses menuangkan ide.
+- [14:49](https://www.youtube.com/watch?t=889&v=EU50W0GKeso) Istilah Prophetic writing menurut Dee Lestari, alam lain dalam pikiran seseroang. → lihat catatan [[prophetic-writing-dari-dee-lestari|Prophetic Writing Menurut Dee Lestari]]
 - [17:40](https://www.youtube.com/watch?t=1063&v=EU50W0GKeso) Kita dicari oleh ide, bukan kita yang mencari ide. Ide mencari inangnya sendiri, jadi kita harus lebih peka jika ada yang datang, bisa menulis atau voice recorder. 
 - [19:49](https://www.youtube.com/watch?t=1189&v=EU50W0GKeso) Prophetic writing, ide itu hadiah, tidak terpaku oleh waktu (masa lampau, masa sekarang atau masa depan)
-- [22:50](https://www.youtube.com/watch?t=1374&v=EU50W0GKeso) Ide memilih kreator, maka kita harus memantaskan diri untuk suatu ide. Meningkatkan jam terbang. [25:03](https://www.youtube.com/watch?t=1503&v=EU50W0GKeso) “Naskah jelek bisa diperbaiki, nanskah bagus tapi gak selesai tidak bisa dinilai” ~ Dee Lestari
+- [22:50](https://www.youtube.com/watch?t=1374&v=EU50W0GKeso) Ide memilih kreator, maka kita harus memantaskan diri untuk suatu ide. Meningkatkan jam terbang. [25:03](https://www.youtube.com/watch?t=1503&v=EU50W0GKeso) “Naskah jelek bisa diperbaiki, nanskah bagus tapi gak selesai tidak bisa dinilai” ~ Dee Lestari → lihat catatan [[berdamai-dengan-ketidaksempurnaan|Berdamai dengan Ketidaksempurnaan]]
 
 - [26:40](https://www.youtube.com/watch?t=1601&v=EU50W0GKeso) Salah satu pelajaran besar dalam berkarya adalah berdamai dengan ketidaksempurnaan.
 
