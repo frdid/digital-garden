@@ -18,4 +18,4 @@ Dalam penerapan Zettelkasten (Slip-box) hanya butuh dua jenis penyimpanan:[^1]
 - [[empat-alat-untuk-menggunakan-zettelkasten|Empat Alat untuk Memulai Zettelkasten]]
 
 
-[^1]: Buku [[how-to-take-smart-notes|How to Take Smart Notes, p. 24]]
+[^1]: Buku [[how-to-take-smart-notes#^n7j3wf|How to Take Smart Notes, p. 24]]

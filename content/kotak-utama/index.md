@@ -1,10 +1,9 @@
 ---
-title: Semua Catatan
+title: Kotak Utama (Main Box)
 description: 
 permalink: 
 aliases:
-  - Semua catatan
-  - Semua Catatan
+  - Kotak Utama
 tags: 
 draft: false
 date: 2024-10-03

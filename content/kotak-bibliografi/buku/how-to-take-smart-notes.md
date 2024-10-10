@@ -14,8 +14,8 @@ Selamat membaca 📖
 
 ---
 
-- 24: dua jenis kotak yang digunakan dalam Zettelkasten → [[dua-kotak-wajib-zettelkasten|Dua Kotak Wajib Dalam Zettelkasten]]
+- 24: dua jenis kotak yang digunakan dalam Zettelkasten → [[dua-kotak-wajib-zettelkasten|Dua Kotak Wajib Dalam Zettelkasten]] ^n7j3wf
 - 30: penjelasan tentang fleeting note → [[fleeting-note|Fleeting Note]] ^bfx186
 - 31: penjelasan tentang literature note  → [[literature-note|Literature Note]]  ^1qf1gt
 - 31: penjelasan tentang permanent note → [[permanent-note|Permanent Note]] ^4ot4z6
-- 37: 4 alat untuk membuat naskah dengan Zettelkasten → [[empat-alat-untuk-menggunakan-zettelkasten|Empat Alat untuk Memulai Zettelkasten]] ^uvb5w4  ^212653
+- 37: 4 alat untuk membuat naskah dengan Zettelkasten → [[empat-alat-untuk-menggunakan-zettelkasten|Empat Alat untuk Memulai Zettelkasten]]  ^212653
