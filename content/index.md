@@ -16,17 +16,3 @@ Kamu sedang memasuki ladang informasi milik [[tentang-saya|saya]]. Disini semua 
 Kamu bisa mulai dari sini dan memilih hal apapun yang menarik perhatian kamu. Saya berusaha sebisa mungkin untuk mencantumkan berbagai sumber informasi yang saya peroleh atau tuliskan, ini tentu akan bermanfaat bagi kamu yang sedang melakukan riset untuk penelitian atau buku yang sedang kamu kerjakan.
 
 Saya tidak begitu banyak menemukan kebun digital *(digital garden)* yang berbahasa Indonesia berseliweran di internet. Mayoritas yang saya temukan di internet berbahasa Inggris. Maka dari itu, saya mencoba untuk memberanikan diri untuk membuat kebun digital saya sendiri dengan menggunakan Bahasa Indonesia. 
-
-## Mulai dari sini
-kamu bisa memulai dari memilih salah satu topik yang saya tuliskan dibawah ini: 
-- [[bahasa-indonesia|Bahasa Indonesia]]
-- [[hubungan-dan-relasi|Hubungan dan Relasi]]  
-- [[content/00-peta-konten/islam|Islam]]
-- [[kepenulisan|Kepenulisan]]
-- [[manajemen-pengetahuan-pribadi|Manajemen Pengetahuan Pribadi]]
-- [[obsidian|Obsidian]]
-- [[pengembangan-diri|Pengembangan Diri]]
-- [[psikologi|Psikologi]]
-- [[quartz-4|Quartz]]
-- [[zettelkasten|Zettelkasten]]
-

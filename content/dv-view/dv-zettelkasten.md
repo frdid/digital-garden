@@ -1,12 +1,12 @@
 ---
-title: DV Kepenulisan
+title: DV Zettelkasten
 description: 
 permalink: 
 aliases:
-  - DV Kepenulisan
+  - DV Zettelkasten
 tags: 
 draft: true
-date: 2024-10-07
+date: 2024-10-13
 ---
 # Belum Tercantum
 ---
@@ -16,9 +16,9 @@ TABLE
 FROM "content"
 	AND -"content/dv-view"
 	AND -"content/templates"
-	AND !outgoing([[cm-kepenulisan]])
+	AND !outgoing([[cm-zettelkasten]])
 WHERE 
-	indexes = [[cm-kepenulisan]]
+	indexes = [[cm-zettelkasten]]
 ```
 
 
@@ -31,5 +31,5 @@ FROM "content"
 	AND -"content/dv-view"
 	AND -"content/templates"
 WHERE 
-	indexes = [[cm-kepenulisan]]
+	indexes = [[cm-zettelkasten]]
 ```

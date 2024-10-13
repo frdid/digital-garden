@@ -1,13 +1,3 @@
----
-title: DV Kepenulisan
-description: 
-permalink: 
-aliases:
-  - DV Kepenulisan
-tags: 
-draft: true
-date: 2024-10-07
----
 # Belum Tercantum
 ---
 ```dataview
@@ -16,9 +6,9 @@ TABLE
 FROM "content"
 	AND -"content/dv-view"
 	AND -"content/templates"
-	AND !outgoing([[cm-kepenulisan]])
+	AND !outgoing([[cm-<% tp.file.title.substring(3) %>]])
 WHERE 
-	indexes = [[cm-kepenulisan]]
+	indexes = [[cm-<% tp.file.title.substring(3) %>]]
 ```
 
 
@@ -31,5 +21,5 @@ FROM "content"
 	AND -"content/dv-view"
 	AND -"content/templates"
 WHERE 
-	indexes = [[cm-kepenulisan]]
+	indexes = [[cm-<% tp.file.title.substring(3) %>]]
 ```

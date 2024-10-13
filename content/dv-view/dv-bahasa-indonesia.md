@@ -1,37 +1,34 @@
 ---
-title: Dataview Bahasa Indonesia
+title: 
 description: 
 permalink: 
 aliases: 
 tags: 
 draft: true
-date: 2024-10-07
+date: 2024-10-13
 ---
-Cek fail disini → [[bahasa-indonesia]]
-
-## Tanpa Judul
+# Belum Tercantum
 ---
 ```dataview
-TABLE WITHOUT ID file.link AS "Fail" 
-FROM 
-	"content"
-	AND -"content/dv-view" 
-	AND outgoing([[bahasa-indonesia]])
-WHERE !title
+TABLE
+	WITHOUT ID link(file.link, title) AS "Fail"
+FROM "content"
+	AND -"content/dv-view"
+	AND -"content/templates"
+	AND !outgoing([[cm-bahasa-indonesia]])
+WHERE 
+	indexes = [[cm-bahasa-indonesia]]
 ```
 
 
----
-## Terhubung
+# Semua
 ---
 ```dataview
-TABLE 
-	WITHOUT ID link(file.link, title) AS "Judul", 
-	link(file.inlinks, file.inlinks.title) AS "Inlinks", 
-	link(file.outlinks, file.outlinks.title) AS "Outlinks"
-FROM 
-	"content" 
+TABLE
+	WITHOUT ID link(file.link, title) AS "Fail"
+FROM "content"
 	AND -"content/dv-view"
-	AND outgoing([[bahasa-indonesia]])
-WHERE title AND title != "Beranda" 
+	AND -"content/templates"
+WHERE 
+	indexes = [[cm-bahasa-indonesia]]
 ```

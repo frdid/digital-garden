@@ -1,8 +1,9 @@
 ---
-title: Dataview Last Created
+title: DV Fail Laporan
 description: 
 permalink: 
-aliases: 
+aliases:
+  - DV Fail Laporan
 tags: 
 draft: true
 date: 2024-10-07
@@ -16,7 +17,7 @@ Keterangan:
 ```dataview
 TABLE
 	WITHOUT ID link(file.link, title) AS "Fail",
-	link(file.inlinks, file.inlinks.title) AS "Masuk"
+	join(link(file.inlinks, file.inlinks.title), ", ") AS "Masuk"
 FROM "content"
 	AND -"content/templates"
 	AND -"content/dv-view"

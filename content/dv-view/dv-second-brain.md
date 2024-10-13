@@ -1,12 +1,12 @@
 ---
-title: DV Kepenulisan
+title: DV Second Brain
 description: 
 permalink: 
 aliases:
-  - DV Kepenulisan
+  - DV Second Brain
 tags: 
 draft: true
-date: 2024-10-07
+date: 2024-10-13
 ---
 # Belum Tercantum
 ---
@@ -16,9 +16,9 @@ TABLE
 FROM "content"
 	AND -"content/dv-view"
 	AND -"content/templates"
-	AND !outgoing([[cm-kepenulisan]])
+	AND !outgoing([[cm-second-brain]])
 WHERE 
-	indexes = [[cm-kepenulisan]]
+	indexes = [[cm-second-brain]]
 ```
 
 
@@ -31,5 +31,5 @@ FROM "content"
 	AND -"content/dv-view"
 	AND -"content/templates"
 WHERE 
-	indexes = [[cm-kepenulisan]]
+	indexes = [[cm-second-brain]]
 ```

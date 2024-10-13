@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "id-ID",
     baseUrl: "frdid.github.io/digital-garden/",
-    ignorePatterns: ["private", "templates", ".obsidian", "lampiran", "dv-view"],
+    ignorePatterns: ["private", "templates", ".obsidian", "lampiran", "dv-view", "00-peta-konten", "kotak-utama", "kotak-bibliografi"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
