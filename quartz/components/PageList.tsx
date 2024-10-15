@@ -50,17 +50,15 @@ type Props = {
 } & QuartzComponentProps
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
-  const sorter = sort ?? byAlphabetical(cfg)
-  const sorter2 = sort ?? byZettelkastenID(cfg)
+  const sorter = sort ?? byZettelkastenID(cfg)
   let list = allFiles.sort(sorter)
-  let list2 = allFiles.sort(sorter2)
   if (limit) {
-    list = list2.slice(0, limit)
+    list = list.slice(0, limit)
   }
 
   return (
     <ul class="section-ul">
-      {list2.map((page) => {
+      {list.map((page) => {
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
         const relaltivePath = page?.relativePath
