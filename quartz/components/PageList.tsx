@@ -35,7 +35,7 @@ export function byAlphabetical(cfg: GlobalConfiguration): SortFn{
   }
 }
 
-// Custom function for Zettelkasten
+// Custom function for Zettelkasten 
 export function byZettelkastenID(cfg: GlobalConfiguration): SortFn{
   return (f1, f2) => {
     const f1RelativePath = f1.relativePath?.split("/").slice(-1)[0]?.split("-")[0] ?? ""
