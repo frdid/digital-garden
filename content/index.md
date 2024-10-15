@@ -20,4 +20,4 @@ Saya tidak begitu banyak menemukan kebun digital *(digital garden)* yang berbaha
 
 ---
 
-Mulailah dengan melihat daftar konten pada [[moc/|Peta Konten]] atau [[tags/|Label]]. Jika kamu ingin melihat semua catatan bisa membuka folder [[/main|Semua Catatan]] atau semua bibliografi pada folder [[/bibli|Bibliografi]]. 
+Mulailah dengan melihat daftar konten pada [[digital-garden/moc|Peta Konten]] atau [[digital-garden/tags|Label]]. Jika kamu ingin melihat semua catatan bisa membuka folder [[digital-garden/main|Semua Catatan]] atau semua bibliografi pada folder [[digital-gaden/bibli|Bibliografi]]. 
