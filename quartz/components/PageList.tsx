@@ -36,8 +36,8 @@ export function byAlphabetical(cfg: GlobalConfiguration): SortFn{
 
 export function byZettelkastenID(cfg: GlobalConfiguration): SortFn{
   return (f1, f2) => {
-    const f1RelativePath = f1.relativePath?.split("/").slice(-1)[0]?.split("-")[0]
-    const f2RelativePath = f2.relativePath?.split("/").slice(-1)[0]?.split("-")[0]
+    const f1RelativePath = f1.relativePath?.split("/").slice(-1)[0]?.split("-")[0] ?? ""
+    const f2RelativePath = f2.relativePath?.split("/").slice(-1)[0]?.split("-")[0] ?? ""
     return f1RelativePath.localeCompare(f2RelativePath)
   }
 }
