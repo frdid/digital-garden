@@ -25,24 +25,24 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
   }
 }
 
-// Custom function for alphabetical sort
-export function byAlphabetical(cfg: GlobalConfiguration): SortFn{
-  return (f1, f2) => {
-    // otherwise, sort lexographically by title
-    const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
-    const f2Title = f2.frontmatter?.title.toLowerCase() ?? ""
-    return f1Title.localeCompare(f2Title)
-  }
-}
+// // Custom function for alphabetical sort
+// export function byAlphabetical(cfg: GlobalConfiguration): SortFn{
+//   return (f1, f2) => {
+//     // otherwise, sort lexographically by title
+//     const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
+//     const f2Title = f2.frontmatter?.title.toLowerCase() ?? ""
+//     return f1Title.localeCompare(f2Title)
+//   }
+// }
 
-// Custom function for Zettelkasten 
-export function byZettelkastenID(cfg: GlobalConfiguration): SortFn{
-  return (f1, f2) => {
-    const f1RelativePath = f1.relativePath?.split("/").slice(-1)[0]?.split("-")[0] ?? ""
-    const f2RelativePath = f2.relativePath?.split("/").slice(-1)[0]?.split("-")[0] ?? ""
-    return f1RelativePath.localeCompare(f2RelativePath)
-  }
-}
+// // Custom function for Zettelkasten 
+// export function byZettelkastenID(cfg: GlobalConfiguration): SortFn{
+//   return (f1, f2) => {
+//     const f1RelativePath = f1.relativePath?.split("/").slice(-1)[0]?.split("-")[0] ?? ""
+//     const f2RelativePath = f2.relativePath?.split("/").slice(-1)[0]?.split("-")[0] ?? ""
+//     return f1RelativePath.localeCompare(f2RelativePath)
+//   }
+// }
 
 type Props = {
   limit?: number
@@ -66,11 +66,11 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
           <li class="section-li">
             <div class="section">
               <div>
-                {page.dates && (
+                {/* {page.dates && (
                   <p class="meta">
                     <Date date={getDate(cfg, page)!} locale={cfg.locale} />
                   </p>
-                )}
+                )} */}
               </div>
               <div class="desc">
                 <h3>

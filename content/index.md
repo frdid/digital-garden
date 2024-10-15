@@ -5,8 +5,7 @@ permalink:
 aliases:
   - Beranda
   - beranda
-tags:
-  - makan
+tags: []
 draft: false
 date: 2024-09-30
 ---
@@ -17,7 +16,4 @@ Kamu sedang memasuki ladang informasi milik [[tentang-saya|saya]]. Disini semua 
 Kamu bisa mulai dari sini dan memilih hal apapun yang menarik perhatian kamu. Saya berusaha sebisa mungkin untuk mencantumkan berbagai sumber informasi yang saya peroleh atau tuliskan, ini tentu akan bermanfaat bagi kamu yang sedang melakukan riset untuk penelitian atau buku yang sedang kamu kerjakan.
 
 Saya tidak begitu banyak menemukan kebun digital *(digital garden)* yang berbahasa Indonesia berseliweran di internet. Mayoritas yang saya temukan di internet berbahasa Inggris. Maka dari itu, saya mencoba untuk memberanikan diri untuk membuat kebun digital saya sendiri dengan menggunakan Bahasa Indonesia.  
-
----
-
-Mulailah dengan melihat daftar konten pada [[digital-garden/moc|Peta Konten]] atau [[digital-garden/tags|Label]]. Jika kamu ingin melihat semua catatan bisa membuka folder [[digital-garden/main|Semua Catatan]] atau semua bibliografi pada folder [[digital-gaden/bibli|Bibliografi]]. 
+ 
