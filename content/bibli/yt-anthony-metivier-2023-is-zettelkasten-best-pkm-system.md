@@ -4,7 +4,8 @@ description:
 permalink: 
 aliases:
   - Is The Zettelkasten Method Really The Best Personal Knowledge Management System
-tags: 
+tags:
+  - video
 draft: false
 date: 2024-10-09
 media_link: https://www.youtube.com/watch?v=OrN0kaE6DkY
@@ -13,7 +14,7 @@ c_creator:
 c_platform: YouTube
 c_published:
 ---
-- Stephen Kosslyn → mengapa zettelkasten bagus
+- Stephen Kosslyn → mengapa zettelkasten bagus.
 - terlihat menumpuk tapi sebenarnya knowledge expansion
 -  Luhmann terinspirasi dari metode Gottfried Wilhelm Leibniz
 - Vincent Placcius → the art of excerpting

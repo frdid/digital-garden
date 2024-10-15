@@ -73,13 +73,17 @@ export default ((opts?: Partial<TagContentOptions>) => {
 
               return (
                 <div>
+                  <div style={`display: flex; align-items: baseline; justify-content: space-between `}> 
+
                   <h2>
                     <a class="internal tag-link" href={`../tags/${tag}`}>
                       {tag}
                     </a>
                   </h2>
-                  {content && <p>{content}</p>}
-                  <div class="page-listing">
+                  <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
+                  </div>
+                  {/* {content && <p>{content}</p>} */}
+                  {/* <div class="page-listing">
                     <p>
                       {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
                       {pages.length > options.numPages && (
@@ -94,7 +98,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
                       )}
                     </p>
                     <PageList limit={options.numPages} {...listProps} sort={opts?.sort} />
-                  </div>
+                  </div> */}
                 </div>
               )
             })}

@@ -73,12 +73,12 @@ export default {
         count === 1 ? "1 catatan dalam folder ini." : `${count} catatan dalam folder ini.`, // default: "1 item under this folder." : `${count} items under this folder.`
     },
     tagContent: {
-      tag: "Tag",
-      tagIndex: "Tag Index",
+      tag: "Label",
+      tagIndex: "Indeks Label",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 catatan dengan tag ini." : `${count} catatan dengan tag ini.`, // default: "1 item with this tag." : `${count} items with this tag.`
-      showingFirst: ({ count }) => `Tampilkan ${count} tag pertama.`, // default: `Showing first ${count} tags.`
-      totalTags: ({ count }) => `Menemukan total ${count} tag.`, // default: `Found ${count} total tags.`
+        count === 1 ? "1 catatan dengan label ini." : `${count} catatan dengan label ini.`, // default: "1 item with this tag." : `${count} items with this tag.`
+      showingFirst: ({ count }) => `Tampilkan ${count} label pertama.`, // default: `Showing first ${count} tags.`
+      totalTags: ({ count }) => `Menemukan ${count} label.`, // default: `Found ${count} total tags.`
     },
   },
 } as const satisfies Translation

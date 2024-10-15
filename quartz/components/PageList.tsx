@@ -25,39 +25,59 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
   }
 }
 
+export function byAlphabetical(cfg: GlobalConfiguration): SortFn{
+  return (f1, f2) => {
+    // otherwise, sort lexographically by title
+    const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
+    const f2Title = f2.frontmatter?.title.toLowerCase() ?? ""
+    return f1Title.localeCompare(f2Title)
+  }
+}
+
+export function byZettelkastenID(cfg: GlobalConfiguration): SortFn{
+  return (f1, f2) => {
+    const f1RelativePath = f1.relativePath?.split("/").slice(-1)[0]?.split("-")[0]
+    const f2RelativePath = f2.relativePath?.split("/").slice(-1)[0]?.split("-")[0]
+    return f1RelativePath.localeCompare(f2RelativePath)
+  }
+}
+
 type Props = {
   limit?: number
   sort?: SortFn
 } & QuartzComponentProps
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
-  const sorter = sort ?? byDateAndAlphabetical(cfg)
+  const sorter = sort ?? byAlphabetical(cfg)
+  const sorter2 = sort ?? byZettelkastenID(cfg)
   let list = allFiles.sort(sorter)
+  let list2 = allFiles.sort(sorter2)
   if (limit) {
-    list = list.slice(0, limit)
+    list = list2.slice(0, limit)
   }
 
   return (
     <ul class="section-ul">
-      {list.map((page) => {
+      {list2.map((page) => {
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
-
+        const relaltivePath = page?.relativePath
+        
         return (
           <li class="section-li">
             <div class="section">
               <div>
-                {page.dates && (
+                {/* {page.dates && (
                   <p class="meta">
                     <Date date={getDate(cfg, page)!} locale={cfg.locale} />
                   </p>
-                )}
+                )} */}
               </div>
               <div class="desc">
                 <h3>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                     {title}
-                  </a>
+                  </a> <span style={`font-size: .8rem; color: var(--gray); font-weight: 400`}><Date date={getDate(cfg, page)!} locale={cfg.locale} /></span>
                 </h3>
               </div>
               <ul class="tags">

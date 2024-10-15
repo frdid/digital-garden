@@ -10,6 +10,10 @@ tags:
 draft: false
 date: 2024-10-13
 media_link: https://www.youtube.com/watch?v=toojhrV2Abs&t=1
+c_creator:
+  - Raditya Dika
+c_platform: YouTube
+c_published: 2024-08-21
 ---
 > Diakses 21 Agustus 2024
  
