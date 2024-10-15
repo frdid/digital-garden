@@ -19,5 +19,5 @@ Saya tidak begitu banyak menemukan kebun digital *(digital garden)* yang berbaha
 
 ---
 
-[[../moc/index|Peta Konten]]
+[[../moc/index|Peta Konten]] | [[../main/index|Semua Catatan]] | [[../bibli/index|Bibliografi]] | [[../tags/index|Label]]
  
