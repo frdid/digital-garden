@@ -1,19 +1,16 @@
 ---
 title: 7 Step Cara Nulis Esai dengan Contoh 🧑‍💻
-description: 
-permalink: 
 aliases:
   - 7 Step Cara Nulis Esai versi Zhafira
-tags:
-  - video
-draft: false
-date: 2024-10-13
-indexes: 
+tags: 
+indexes:
+  - "[[cm-kepenulisan|MOC Kepenulisan]]"
 media_link: https://www.youtube.com/watch?v=VdHHkL-joIc
 c_creator:
   - Zhafira Aqyla
-c_platform: 
-c_published:
+c_platform: YouTube
+c_published: 2022-01-28
+draft: false
 ---
 - 00:55 → tipe-tipe utama essay ada 4
 	- expository

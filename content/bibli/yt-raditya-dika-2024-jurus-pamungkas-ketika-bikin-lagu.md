@@ -1,22 +1,19 @@
 ---
 title: Jurus Pamungkas Ketika Bikin Lagu
-description: 
-permalink: 
 aliases:
-  - Jurus Pamungkas Ketika Bikin Lagu
   - Raditya Dika ft. Pamungkas
-tags:
-  - video
-draft: false
-date: 2024-10-13
+  - Jurus Pamungkas Ketika Bikin Lagu
+tags: 
+indexes: 
 media_link: https://www.youtube.com/watch?v=toojhrV2Abs&t=1
 c_creator:
   - Raditya Dika
 c_platform: YouTube
 c_published: 2024-08-21
+draft: false
 ---
 > Diakses 21 Agustus 2024
- 
+
 - [01:59](https://www.youtube.com/watch?t=119&v=toojhrV2Abs) Mulai buat musik waktu kuliah
 - [02:35](https://www.youtube.com/watch?t=155&v=toojhrV2Abs) Agregator Musik?
 - [02:57](https://www.youtube.com/watch?t=177&v=toojhrV2Abs) Album pertama, Walk the talk
@@ -36,6 +33,3 @@ c_published: 2024-08-21
 - [37:06](https://www.youtube.com/watch?t=2226&v=toojhrV2Abs) Rilis Vinyl pertama
 - [37:46](https://www.youtube.com/watch?t=2266&v=toojhrV2Abs) Apa beda Vinyl dengan yang lainnya? Dimensinya lebih luas
 
-
----
-Sumber [Jurus Pamungkas Ketika Bikin Lagu](https://www.youtube.com/watch?v=toojhrV2Abs&t=1)

@@ -3,7 +3,7 @@ title: Bagaimana Menulis Esai?
 description: 
 permalink: 
 aliases:
-  - Cara menulis esai
+  - Bagaimana Menulis Esai?
 tags: 
 draft: false
 date: 2024-10-14

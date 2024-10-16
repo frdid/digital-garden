@@ -5,8 +5,10 @@ permalink:
 aliases:
   - Penggunaan Teknologi dalam Mitigasi Bencana ft. Hilman Arioaji (U-Inspire)
 tags: 
-draft: false
-date: 2024-10-13
+draft: 
+date: 
+posted: 
+indexes:
 ---
 Catatan dari event webinar yang diadakan oleh Rise dengan topik Penggunaan Teknologi dalam Mitigasi Bencana
 

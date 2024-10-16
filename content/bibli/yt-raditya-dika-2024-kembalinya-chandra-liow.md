@@ -4,8 +4,7 @@ description:
 permalink: 
 aliases:
   - Kembalinya Chandra Liow
-tags:
-  - video
+tags: 
 draft: false
 date: 2024-10-14
 indexes: 
@@ -17,7 +16,7 @@ c_published: 2024-07-03
 ---
 - Elemen standup comedy: Panggung, materi, penonton →  [Kembalinya Chandra Liow](https://youtu.be/GUICVAfS7ws)
 	- Standup comedy itu conversation bukan monolog. 
-	- Interaksi dengan penonton, reading the room baru mengeluarkan apa yang sesuai dengan suasananya. 
+	- Interaksi dengan penonton, reading the room baru mengeluarkan apa yang sesuai dengan suasananya
 	- Radit: Gua dapat materi ketika interaksi dengan penonton (32.00)
 - Underlying standup comedy: pain and truth (15.00)
 	- Krusty the clown → lucu ketika menceritakan ketidaklucuannya dia [The Simpsons - Krusty does stand up at Moe's Brew Ha Ha](https://youtu.be/QkdirL0YxHE)

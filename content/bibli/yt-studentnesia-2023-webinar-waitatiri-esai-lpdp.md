@@ -1,20 +1,15 @@
 ---
 title: Webinar Waitatiri Tentang Menulis Esai LPDP
-description: 
-permalink: 
 aliases:
   - Studentnesia ft. Waitariri (Esai LPDP)
-  - Webinar Waitatiri Tentang Menulis Esai LPDP
-tags:
-  - video
-draft: false
-date: 2024-10-13
+tags: 
 indexes: 
 media_link: https://www.youtube.com/watch?v=Ik-DpOHtcW4
 c_creator:
   - Studentnesia
 c_platform: YouTube
 c_published: 2023-02-13
+draft: false
 ---
 
 

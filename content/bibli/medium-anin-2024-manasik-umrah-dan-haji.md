@@ -1,18 +1,13 @@
 ---
-title: Anin, 2024, Manasik Umrah & Haji Harus Lebih Dari Sekedar Tata Cara Umrah & Haji saja
-description: 
-permalink: 
-aliases:
-  - Manasik Umrah & Haji Harus Lebih Dari Sekedar Tata Cara Umrah & Haji saja
-tags: 
+title: Manasik Umrah & Haji Harus Lebih Dari Sekedar Tata Cara Umrah & Haji saja
+url: https://suaranirwana.medium.com/manasik-umrah-haji-harus-lebih-dari-sekedar-tata-cara-umrah-6073a8324131
+c_creator:
+  - Anin | Suara Senar Nirwana
+c_published: 2024-08-20
 draft: false
-date: 2024-10-06
-c_published: 2024-08-19
----
-Ini adalah catatan singkat yang saya dapatkan dari membaca artikel milik Anin yang berjudul Manasik Umrah & Haji Harus Lebih Dari Sekedar Tata Cara Umrah & Haji saja di Medium.[^1]
-
-Selamat membaca 📖 
-
+indexes:
+  - "[[Haji dan Umroh]]"
+  - "[[00-Indexes/Islam|Islam]]"
 ---
 
 Pendapat penulis terhadap agen travel umroh dan haji
@@ -35,6 +30,4 @@ Pendapat penulis terhadap agen travel umroh dan haji
 
 
 ---
-**Baca juga:**
-
-[^1]: Sumber:  [Artikel Medium karya Anin | Suara Senar Nirwana](https://suaranirwana.medium.com/manasik-umrah-haji-harus-lebih-dari-sekedar-tata-cara-umrah-6073a8324131)
+Sumber [Manasik Umrah & Haji Harus Lebih Dari Sekedar Tata Cara Umrah & Haji saja](https://suaranirwana.medium.com/manasik-umrah-haji-harus-lebih-dari-sekedar-tata-cara-umrah-6073a8324131) (Diakses 6 September 2024)

@@ -55,4 +55,4 @@ Konten-konten lain yang dicantumkan dalam tulisannya:
 
 
 ---
-Sumber [Tony Stubblebine, 2024, Be part of a better internet](https://blog.medium.com/be-part-of-a-better-internet-5c4aa58ec826) (Diakses 14 Oktober 2024)
+Sumber [Tony Stubblebine, 2024, Be part of a better internet](https://blog.medium.com/be-part-of-a-better-internet-5c4aa58ec826) [Diakses:: 14 Oktober 2024]

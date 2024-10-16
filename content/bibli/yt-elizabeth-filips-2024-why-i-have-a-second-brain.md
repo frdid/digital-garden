@@ -4,8 +4,7 @@ description:
 permalink: 
 aliases:
   - Why I Have a Second Brain
-tags:
-  - video
+tags: 
 draft: false
 date: 2024-10-14
 indexes: 

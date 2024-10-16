@@ -4,8 +4,7 @@ description:
 permalink: 
 aliases:
   - Tentang Konseling Pra-nikah
-tags:
-  - video
+tags: 
 draft: false
 date: 2024-10-14
 media_link: https://www.youtube.com/watch?v=IbJ02_rcuqA

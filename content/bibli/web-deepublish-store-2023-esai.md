@@ -6,7 +6,11 @@ aliases:
   - "Deepublish Store: Esai"
 tags: 
 draft: false
-date: 2024-10-13
+date: 
+indexes:
+  - "[[00-Indexes/Kepenulisan|Kepenulisan]]"
+  - "[[00-Indexes/Esai|Esai]]"
+c_published: 2023-06-03
 ---
 - Pengertian Esai
 	- Dalman: opini penulis tentang subjek tertentu

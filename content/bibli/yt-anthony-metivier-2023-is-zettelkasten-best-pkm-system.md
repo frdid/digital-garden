@@ -12,7 +12,7 @@ media_link: https://www.youtube.com/watch?v=OrN0kaE6DkY
 c_creator:
   - Anthony Mativier
 c_platform: YouTube
-c_published:
+c_published: 2023-10-19
 ---
 - Stephen Kosslyn → mengapa zettelkasten bagus.
 - terlihat menumpuk tapi sebenarnya knowledge expansion

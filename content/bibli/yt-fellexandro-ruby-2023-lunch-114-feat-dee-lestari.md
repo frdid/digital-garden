@@ -1,16 +1,14 @@
 ---
+media_link: https://www.youtube.com/watch?v=EU50W0GKeso
+tags: 
 title: "Lunch #114 : Ide itu Murah, Eksekusi itu Mahal feat. Dee Lestari"
 description: 
 permalink: 
 aliases:
-  - TDOL ft. Dee Lestari
-  - "TDOL ft. Dee Lestari: Ide Itu Murah"
-tags:
-  - video
+  - TDOL feat. Dee Lestari
 draft: false
-date: 2024-10-05
+date: 
 indexes: 
-media_link: https://www.youtube.com/watch?v=EU50W0GKeso
 c_creator:
   - Fellexandro Ruby
 c_platform: YouTube
@@ -45,6 +43,4 @@ c_published: 2023-01-17
 [58:28](https://www.youtube.com/watch?t=3508&v=EU50W0GKeso) Buku The War of Art karya by [[Steven Pressfield]], jangan kerja bermodalkan mood
 
 
-
----
-Sumber [Lunch #114 : Ide itu Murah, Eksekusi itu Mahal feat. Dee Lestari](https://www.youtube.com/watch?v=EU50W0GKeso)
+> Diakses 2 September 2024

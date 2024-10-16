@@ -1,16 +1,13 @@
 ---
 title: Yang Suka Disuruh-Suruh, Nonton Ini!
-description: 
-permalink: 
 aliases:
   - Yang Suka Disuruh-Suruh, Nonton Ini!
-tags:
-  - video
-draft: false
-date: 2024-10-13
+tags: 
 indexes: 
+draft: false
 media_link: https://www.youtube.com/watch?v=NdsHlBsqCjM
-c_creator: Raditya Dika
+c_creator:
+  - Raditya Dika
 c_platform: YouTube
 c_published: 2024-10-11
 ---
@@ -44,8 +41,3 @@ c_published: 2024-10-11
 - [37:46](https://www.youtube.com/watch?t=2266&v=NdsHlBsqCjM) “Di Indonesia itu lebih baik ngasi kali, dibanding ngasi ikan.”
 - [38:04](https://www.youtube.com/watch?t=2284&v=NdsHlBsqCjM) Cerita tentang pengembangan website.
 - [41:56](https://www.youtube.com/watch?t=2516&v=NdsHlBsqCjM) Cara pakai jasa www.santosuruh.co.id atau ke WA Santo Suruh.
-
-
-
----
-Sumber [Yang Suka Disuruh-Suruh, Nonton Ini!](https://www.youtube.com/watch?v=NdsHlBsqCjM)

@@ -3,8 +3,8 @@ title: Why Do I Write?
 description: 
 permalink: 
 aliases:
-  - Why Do I Write
-  - Firnita, 2021, Why Do I Write
+  - Why Do I Write?
+  - Firnita, 2021, Why Do I Write?
 tags: 
 draft: false
 date: 

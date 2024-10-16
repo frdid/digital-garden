@@ -1,13 +1,15 @@
 ---
+indexes:
+  - "[[Menggambar]]"
 title: "Seminar Sebingkisah x Milkhatf: Membuat Cover Buku"
 description: 
 permalink: 
 aliases:
   - "Seminar Sebingkisah x Milkhatf: Membuat Cover Buku"
-tags:
-  - seminar
-draft: false
-date: 2024-10-13
+tags: 
+draft: 
+date: 
+posted:
 ---
 Tanggal 28 Juni 2024, Sebingkisah mengadakan webinar bersama Milkhatf dengan topik menggambar cover buku, berikut adalah catatannya:
 
