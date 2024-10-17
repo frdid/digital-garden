@@ -3,4 +3,4 @@
 	url = https://github.com/frdid/bibli.git
 [submodule "content/main"]
 	path = content/main
-	url = https://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@github.com/frdid/sb-main.git
+	url = https://github.com/frdid/sb-main.git

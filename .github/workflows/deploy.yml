@@ -22,7 +22,6 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0 # Fetch all history for git info
-          token: ${{ secrets.SUBMODULE_TOKEN }}
       - uses: actions/setup-node@v4
         with:
           node-version: 22
