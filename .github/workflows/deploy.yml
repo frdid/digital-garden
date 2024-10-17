@@ -20,14 +20,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          submodules: true
           fetch-depth: 0 # Fetch all history for git info
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
-      - name: Checkout submodules
-        run: git submodule update --init --recursive
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
