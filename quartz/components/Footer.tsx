@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           {/* <a href="https://frdi.medium.com/">Ferdi Dirgantara</a> © {year} */}
-          <a href="/tentang-saya">Ferdi Dirgantara</a> © {year}
+          <a href="../tentang-saya">Ferdi Dirgantara</a> © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
