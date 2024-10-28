@@ -9,8 +9,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       // GitHub: "https://github.com/frdid/digital-garden",
-      "Blog Medium": "https://frdi.medium.com", 
-      Instagram: "https://www.instagram.com/frdi.d"
+      "Blog Medium": "https://frdi.medium.com",
+      Instagram: "https://www.instagram.com/frdi.d",
       // "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({ folderClickBehavior: "link"})),
   ],
   right: [
     Component.Graph(),
